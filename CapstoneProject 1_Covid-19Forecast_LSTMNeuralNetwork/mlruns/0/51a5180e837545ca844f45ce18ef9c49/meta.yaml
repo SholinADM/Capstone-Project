@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/51a5180e837545ca844f45ce18ef9c49/artifacts
+deleted_time: 1741578347742
+end_time: 1741578185379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 51a5180e837545ca844f45ce18ef9c49
+run_name: skittish-frog-17
+run_uuid: 51a5180e837545ca844f45ce18ef9c49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741578152302
+status: 3
+tags: []
+user_id: suhaimi

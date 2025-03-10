@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/7cb976443d0f4ca9a93b2c0cdb75b1a2/artifacts
+deleted_time: 1741579806405
+end_time: 1741579013255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7cb976443d0f4ca9a93b2c0cdb75b1a2
+run_name: overjoyed-hog-465
+run_uuid: 7cb976443d0f4ca9a93b2c0cdb75b1a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741578988658
+status: 3
+tags: []
+user_id: suhaimi

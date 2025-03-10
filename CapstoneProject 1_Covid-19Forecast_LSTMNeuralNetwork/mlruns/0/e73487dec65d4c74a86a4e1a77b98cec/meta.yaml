@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/e73487dec65d4c74a86a4e1a77b98cec/artifacts
+deleted_time: 1741580525692
+end_time: 1741576841241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e73487dec65d4c74a86a4e1a77b98cec
+run_name: sassy-croc-992
+run_uuid: e73487dec65d4c74a86a4e1a77b98cec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576811789
+status: 3
+tags: []
+user_id: suhaimi

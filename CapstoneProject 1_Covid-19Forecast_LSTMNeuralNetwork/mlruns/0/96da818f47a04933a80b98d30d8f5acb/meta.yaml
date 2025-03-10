@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/96da818f47a04933a80b98d30d8f5acb/artifacts
+deleted_time: 1741579806396
+end_time: 1741579298561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 96da818f47a04933a80b98d30d8f5acb
+run_name: skittish-fly-243
+run_uuid: 96da818f47a04933a80b98d30d8f5acb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741579274109
+status: 3
+tags: []
+user_id: suhaimi

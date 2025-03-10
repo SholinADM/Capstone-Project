@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/f7019506a7a44a9fb6b43fe3f6ff0774/artifacts
+deleted_time: 1741580525713
+end_time: 1741576228404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f7019506a7a44a9fb6b43fe3f6ff0774
+run_name: bemused-dog-568
+run_uuid: f7019506a7a44a9fb6b43fe3f6ff0774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576213676
+status: 3
+tags: []
+user_id: suhaimi

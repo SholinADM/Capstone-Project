@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/ed199990afaa4cb2bde87bd992f56d2f/artifacts
+deleted_time: 1741579806405
+end_time: 1741578905755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ed199990afaa4cb2bde87bd992f56d2f
+run_name: mysterious-mouse-708
+run_uuid: ed199990afaa4cb2bde87bd992f56d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741578880883
+status: 3
+tags: []
+user_id: suhaimi

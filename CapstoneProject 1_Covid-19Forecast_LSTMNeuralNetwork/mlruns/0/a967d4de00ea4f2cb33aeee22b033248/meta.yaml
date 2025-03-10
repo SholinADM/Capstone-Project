@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/a967d4de00ea4f2cb33aeee22b033248/artifacts
+end_time: 1741582114063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a967d4de00ea4f2cb33aeee22b033248
+run_name: likeable-stoat-803
+run_uuid: a967d4de00ea4f2cb33aeee22b033248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741582091806
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/4ac0c2eb21824cd9b03d44d6f1fd375b/artifacts
+deleted_time: 1741578347744
+end_time: 1741577395595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4ac0c2eb21824cd9b03d44d6f1fd375b
+run_name: nervous-squid-876
+run_uuid: 4ac0c2eb21824cd9b03d44d6f1fd375b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741577340571
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/046c05c9c24147d1b947547c0fb62aba/artifacts
+deleted_time: 1741580525733
+end_time: 1741575994040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 046c05c9c24147d1b947547c0fb62aba
+run_name: skillful-fly-330
+run_uuid: 046c05c9c24147d1b947547c0fb62aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741575979608
+status: 3
+tags: []
+user_id: suhaimi

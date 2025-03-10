@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/92aa82be9b4247caa4d8f4d6458f5cf0/artifacts
+deleted_time: 1741580525713
+end_time: 1741576631330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 92aa82be9b4247caa4d8f4d6458f5cf0
+run_name: placid-grouse-766
+run_uuid: 92aa82be9b4247caa4d8f4d6458f5cf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576618743
+status: 3
+tags: []
+user_id: suhaimi

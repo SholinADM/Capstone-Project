@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/b21d464596654f9081481d575c5d8259/artifacts
+end_time: 1741581282003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b21d464596654f9081481d575c5d8259
+run_name: casual-bee-269
+run_uuid: b21d464596654f9081481d575c5d8259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741581216141
+status: 3
+tags: []
+user_id: suhaimi

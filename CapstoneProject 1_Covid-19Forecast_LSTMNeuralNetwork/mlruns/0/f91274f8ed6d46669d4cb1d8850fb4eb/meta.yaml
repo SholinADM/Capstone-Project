@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/f91274f8ed6d46669d4cb1d8850fb4eb/artifacts
+end_time: 1741579895763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f91274f8ed6d46669d4cb1d8850fb4eb
+run_name: fearless-midge-426
+run_uuid: f91274f8ed6d46669d4cb1d8850fb4eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741579854692
+status: 3
+tags: []
+user_id: suhaimi

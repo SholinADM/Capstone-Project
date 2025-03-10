@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/cdab931ba579401d81c83e13e53b2c86/artifacts
+end_time: 1741580211229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdab931ba579401d81c83e13e53b2c86
+run_name: resilient-robin-670
+run_uuid: cdab931ba579401d81c83e13e53b2c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741580165622
+status: 4
+tags: []
+user_id: suhaimi

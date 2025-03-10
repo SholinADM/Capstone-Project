@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/56e7aa3d8c6a438bb4e9b13e43d61655/artifacts
+end_time: 1741582690822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56e7aa3d8c6a438bb4e9b13e43d61655
+run_name: big-rook-918
+run_uuid: 56e7aa3d8c6a438bb4e9b13e43d61655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741582661102
+status: 3
+tags: []
+user_id: suhaimi

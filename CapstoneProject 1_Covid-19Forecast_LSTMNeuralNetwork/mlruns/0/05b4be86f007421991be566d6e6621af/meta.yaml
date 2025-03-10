@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/05b4be86f007421991be566d6e6621af/artifacts
+deleted_time: 1741580525733
+end_time: 1741576038721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 05b4be86f007421991be566d6e6621af
+run_name: receptive-seal-420
+run_uuid: 05b4be86f007421991be566d6e6621af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576023625
+status: 3
+tags: []
+user_id: suhaimi

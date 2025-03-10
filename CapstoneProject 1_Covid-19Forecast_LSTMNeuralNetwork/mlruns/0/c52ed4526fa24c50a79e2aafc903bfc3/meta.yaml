@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/c52ed4526fa24c50a79e2aafc903bfc3/artifacts
+deleted_time: 1741579806405
+end_time: 1741578642279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c52ed4526fa24c50a79e2aafc903bfc3
+run_name: upset-worm-537
+run_uuid: c52ed4526fa24c50a79e2aafc903bfc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741578615515
+status: 3
+tags: []
+user_id: suhaimi

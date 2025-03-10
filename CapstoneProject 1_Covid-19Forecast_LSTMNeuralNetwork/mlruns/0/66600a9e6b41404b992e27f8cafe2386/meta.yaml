@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/66600a9e6b41404b992e27f8cafe2386/artifacts
+deleted_time: 1741580525713
+end_time: 1741576664082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 66600a9e6b41404b992e27f8cafe2386
+run_name: bustling-sheep-888
+run_uuid: 66600a9e6b41404b992e27f8cafe2386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576649464
+status: 3
+tags: []
+user_id: suhaimi

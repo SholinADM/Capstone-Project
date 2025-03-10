@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/4a209fc0bad34256919fffd35032a447/artifacts
+deleted_time: 1741579806405
+end_time: 1741579142368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4a209fc0bad34256919fffd35032a447
+run_name: sedate-koi-874
+run_uuid: 4a209fc0bad34256919fffd35032a447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741579117818
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741582283444
+current_stage: None
+description: ''
+last_updated_timestamp: 1741582283444
+name: Covid_single
+run_id: 82b6e9e725f44f2299958d4f236fd11e
+run_link: ''
+source: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/82b6e9e725f44f2299958d4f236fd11e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/82b6e9e725f44f2299958d4f236fd11e/artifacts/model
+user_id: null
+version: 2

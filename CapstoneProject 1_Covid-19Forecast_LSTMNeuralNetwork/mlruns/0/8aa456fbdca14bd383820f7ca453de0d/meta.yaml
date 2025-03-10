@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/8aa456fbdca14bd383820f7ca453de0d/artifacts
+deleted_time: 1741579806419
+end_time: 1741578357269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8aa456fbdca14bd383820f7ca453de0d
+run_name: grandiose-cub-791
+run_uuid: 8aa456fbdca14bd383820f7ca453de0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741578329638
+status: 3
+tags: []
+user_id: suhaimi

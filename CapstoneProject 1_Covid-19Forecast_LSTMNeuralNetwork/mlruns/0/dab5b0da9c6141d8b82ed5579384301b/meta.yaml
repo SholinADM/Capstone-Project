@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/dab5b0da9c6141d8b82ed5579384301b/artifacts
+deleted_time: 1741580525735
+end_time: 1741575524719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dab5b0da9c6141d8b82ed5579384301b
+run_name: judicious-crane-892
+run_uuid: dab5b0da9c6141d8b82ed5579384301b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741575514973
+status: 3
+tags: []
+user_id: suhaimi

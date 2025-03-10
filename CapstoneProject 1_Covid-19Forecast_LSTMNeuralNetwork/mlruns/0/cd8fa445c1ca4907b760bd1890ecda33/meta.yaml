@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/cd8fa445c1ca4907b760bd1890ecda33/artifacts
+end_time: 1741582433374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd8fa445c1ca4907b760bd1890ecda33
+run_name: thoughtful-goose-664
+run_uuid: cd8fa445c1ca4907b760bd1890ecda33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741582404581
+status: 3
+tags: []
+user_id: suhaimi

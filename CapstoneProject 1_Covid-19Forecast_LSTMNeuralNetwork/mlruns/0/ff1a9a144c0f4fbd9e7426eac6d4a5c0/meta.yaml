@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/ff1a9a144c0f4fbd9e7426eac6d4a5c0/artifacts
+deleted_time: 1741579806384
+end_time: 1741579771627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ff1a9a144c0f4fbd9e7426eac6d4a5c0
+run_name: receptive-robin-647
+run_uuid: ff1a9a144c0f4fbd9e7426eac6d4a5c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741579731006
+status: 4
+tags: []
+user_id: suhaimi

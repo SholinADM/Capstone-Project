@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/f0aa34c8d9d74809ac82c37ebc6500bc/artifacts
+deleted_time: 1741579806396
+end_time: 1741579420158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f0aa34c8d9d74809ac82c37ebc6500bc
+run_name: bald-gnat-964
+run_uuid: f0aa34c8d9d74809ac82c37ebc6500bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741579395358
+status: 3
+tags: []
+user_id: suhaimi

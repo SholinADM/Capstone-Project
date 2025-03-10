@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/3ca68f5d875346b0a5838c6a1dd68bdb/artifacts
+deleted_time: 1741580525741
+end_time: 1741575393027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3ca68f5d875346b0a5838c6a1dd68bdb
+run_name: clumsy-mule-657
+run_uuid: 3ca68f5d875346b0a5838c6a1dd68bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741575380476
+status: 3
+tags: []
+user_id: suhaimi

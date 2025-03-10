@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/3aa92bba77bc45e6b1f4e9d17d86b4f0/artifacts
+end_time: 1741581906651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3aa92bba77bc45e6b1f4e9d17d86b4f0
+run_name: auspicious-skink-434
+run_uuid: 3aa92bba77bc45e6b1f4e9d17d86b4f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741581856465
+status: 3
+tags: []
+user_id: suhaimi

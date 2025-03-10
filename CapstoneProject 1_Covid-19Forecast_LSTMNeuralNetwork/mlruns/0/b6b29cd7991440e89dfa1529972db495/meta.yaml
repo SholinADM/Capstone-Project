@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/b6b29cd7991440e89dfa1529972db495/artifacts
+deleted_time: 1741580525742
 end_time: 1741574959578
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b6b29cd7991440e89dfa1529972db495
 run_name: redolent-zebra-425
 run_uuid: b6b29cd7991440e89dfa1529972db495

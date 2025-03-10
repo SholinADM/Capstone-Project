@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/a3dc8bbc40524cd1bb8c259eed8b2058/artifacts
+deleted_time: 1741580525713
+end_time: 1741576504641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a3dc8bbc40524cd1bb8c259eed8b2058
+run_name: bemused-bass-959
+run_uuid: a3dc8bbc40524cd1bb8c259eed8b2058
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576489248
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/ae9eeaa8ed7c4ce980239e849ac2a156/artifacts
+deleted_time: 1741580525713
+end_time: 1741576694749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ae9eeaa8ed7c4ce980239e849ac2a156
+run_name: luminous-skink-431
+run_uuid: ae9eeaa8ed7c4ce980239e849ac2a156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576680039
+status: 3
+tags: []
+user_id: suhaimi

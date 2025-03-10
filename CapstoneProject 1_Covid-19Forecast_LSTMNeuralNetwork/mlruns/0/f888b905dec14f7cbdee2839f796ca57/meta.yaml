@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/f888b905dec14f7cbdee2839f796ca57/artifacts
+deleted_time: 1741578347743
+end_time: 1741577292173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f888b905dec14f7cbdee2839f796ca57
+run_name: gaudy-lark-369
+run_uuid: f888b905dec14f7cbdee2839f796ca57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741577263283
+status: 3
+tags: []
+user_id: suhaimi

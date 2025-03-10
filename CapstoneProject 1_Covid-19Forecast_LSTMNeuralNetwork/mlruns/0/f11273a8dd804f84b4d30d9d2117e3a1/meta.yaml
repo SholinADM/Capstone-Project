@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/f11273a8dd804f84b4d30d9d2117e3a1/artifacts
+end_time: 1741582088945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f11273a8dd804f84b4d30d9d2117e3a1
+run_name: gregarious-yak-922
+run_uuid: f11273a8dd804f84b4d30d9d2117e3a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741582075320
+status: 4
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/8446eb8f523f4470995f4d05f5e18821/artifacts
+end_time: 1741584579559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8446eb8f523f4470995f4d05f5e18821
+run_name: bold-shad-572
+run_uuid: 8446eb8f523f4470995f4d05f5e18821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741584566249
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/c91eb74c44c042ac9407e868213d98ff/artifacts
+deleted_time: 1741580525692
+end_time: 1741576886124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c91eb74c44c042ac9407e868213d98ff
+run_name: enthused-worm-846
+run_uuid: c91eb74c44c042ac9407e868213d98ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576864576
+status: 3
+tags: []
+user_id: suhaimi

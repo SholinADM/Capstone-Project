@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/49b29a7659974f08bfca6883bf5b810f/artifacts
+deleted_time: 1741580525728
+end_time: 1741576167948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 49b29a7659974f08bfca6883bf5b810f
+run_name: casual-rat-936
+run_uuid: 49b29a7659974f08bfca6883bf5b810f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576152735
+status: 3
+tags: []
+user_id: suhaimi

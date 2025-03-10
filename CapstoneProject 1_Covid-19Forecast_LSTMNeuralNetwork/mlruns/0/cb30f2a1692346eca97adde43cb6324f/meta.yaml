@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/cb30f2a1692346eca97adde43cb6324f/artifacts
+end_time: 1741582335996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb30f2a1692346eca97adde43cb6324f
+run_name: bedecked-wren-863
+run_uuid: cb30f2a1692346eca97adde43cb6324f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741582321817
+status: 3
+tags: []
+user_id: suhaimi
