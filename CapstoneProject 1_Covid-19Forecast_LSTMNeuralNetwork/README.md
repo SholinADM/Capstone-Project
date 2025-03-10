@@ -71,9 +71,9 @@ Below is the model's single-step prediction using 30 days data.
 
 ![graph](screenshot/graph.png)
 
-![performance_train]('screenshot/Performance 1.png')
+![performance_train]('screenshot/Performance_1.png')
 
-![performance_val]('screenshot/Performance 2.png')
+![performance_val]('screenshot/Performance_2.png')
 
 ![model](screenshot/ModelArchitecture.png)
 
