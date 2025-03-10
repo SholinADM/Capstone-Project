@@ -71,11 +71,11 @@ Below is the model's single-step prediction using 30 days data.
 
 ![graph](screenshot/graph.png)
 
-![performance_train](screenshot/Performance 1.png)
+![performance_train]('screenshot/Performance 1.png')
 
-![performance_val](screenshot/Performance 2.png)
+![performance_val]('screenshot/Performance 2.png')
 
-![model](screenshot/graph.png)
+![model](screenshot/ModelArchitecture.png)
 
 ## License
 This project is open-source and available under the MIT License.
