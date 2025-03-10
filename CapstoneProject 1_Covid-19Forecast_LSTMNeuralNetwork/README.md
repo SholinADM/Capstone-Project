@@ -68,10 +68,10 @@ model.fit(X_train, y_train, epochs=50, batch_size=32)
 
 ## Performance 
 Below is the model's single-step prediction using 30 days data.
-![graph](CapstoneProject 1_Covid-19Forecast_LSTMNeuralNetwork\screenshot\graph.png)
-![performance_train](CapstoneProject 1_Covid-19Forecast_LSTMNeuralNetwork\screenshot\Performance 1.png)
-![performance_val](CapstoneProject 1_Covid-19Forecast_LSTMNeuralNetwork\screenshot\Performance 2.png)
-![model](CapstoneProject 1_Covid-19Forecast_LSTMNeuralNetwork\screenshot\graph.png)
+![graph](screenshot\graph.png)
+![performance_train](screenshot\Performance 1.png)
+![performance_val](screenshot\Performance 2.png)
+![model](screenshot\graph.png)
 
 ## License
 This project is open-source and available under the MIT License.
