@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/ec3a511f7bf9417c92afa966062e2276/artifacts
+end_time: 1741589788318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec3a511f7bf9417c92afa966062e2276
+run_name: funny-bird-483
+run_uuid: ec3a511f7bf9417c92afa966062e2276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589753101
+status: 4
+tags: []
+user_id: suhaimi

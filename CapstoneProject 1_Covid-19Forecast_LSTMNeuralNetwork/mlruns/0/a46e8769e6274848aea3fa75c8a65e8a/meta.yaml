@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/a46e8769e6274848aea3fa75c8a65e8a/artifacts
+deleted_time: 1741589644217
 end_time: 1741580042037
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a46e8769e6274848aea3fa75c8a65e8a
 run_name: orderly-hound-533
 run_uuid: a46e8769e6274848aea3fa75c8a65e8a

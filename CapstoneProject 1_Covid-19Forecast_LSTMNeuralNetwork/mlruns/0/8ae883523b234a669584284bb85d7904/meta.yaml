@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/8ae883523b234a669584284bb85d7904/artifacts
+end_time: 1741589944575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ae883523b234a669584284bb85d7904
+run_name: secretive-hawk-703
+run_uuid: 8ae883523b234a669584284bb85d7904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589867484
+status: 3
+tags: []
+user_id: suhaimi

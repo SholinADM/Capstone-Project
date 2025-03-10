@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/779be201e8934de5bad1ac376ad1c0d8/artifacts
+deleted_time: 1741589644214
 end_time: 1741580140349
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 779be201e8934de5bad1ac376ad1c0d8
 run_name: zealous-vole-319
 run_uuid: 779be201e8934de5bad1ac376ad1c0d8

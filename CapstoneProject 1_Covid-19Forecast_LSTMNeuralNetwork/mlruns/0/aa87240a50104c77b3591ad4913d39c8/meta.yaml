@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/aa87240a50104c77b3591ad4913d39c8/artifacts
+deleted_time: 1741589644144
 end_time: 1741584426706
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: aa87240a50104c77b3591ad4913d39c8
 run_name: spiffy-pug-960
 run_uuid: aa87240a50104c77b3591ad4913d39c8

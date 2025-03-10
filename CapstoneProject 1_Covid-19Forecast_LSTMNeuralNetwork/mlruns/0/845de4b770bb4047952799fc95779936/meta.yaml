@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/845de4b770bb4047952799fc95779936/artifacts
+end_time: 1741590000052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 845de4b770bb4047952799fc95779936
+run_name: hilarious-steed-150
+run_uuid: 845de4b770bb4047952799fc95779936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589975607
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/8599cde0bc344b42a97e349101bc4ea6/artifacts
+end_time: 1741590642561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8599cde0bc344b42a97e349101bc4ea6
+run_name: placid-perch-33
+run_uuid: 8599cde0bc344b42a97e349101bc4ea6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741590621465
+status: 3
+tags: []
+user_id: suhaimi

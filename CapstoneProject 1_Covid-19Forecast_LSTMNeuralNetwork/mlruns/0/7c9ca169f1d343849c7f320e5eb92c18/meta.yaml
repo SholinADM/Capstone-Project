@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/7c9ca169f1d343849c7f320e5eb92c18/artifacts
+deleted_time: 1741589644151
 end_time: 1741582873404
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7c9ca169f1d343849c7f320e5eb92c18
 run_name: legendary-bug-548
 run_uuid: 7c9ca169f1d343849c7f320e5eb92c18

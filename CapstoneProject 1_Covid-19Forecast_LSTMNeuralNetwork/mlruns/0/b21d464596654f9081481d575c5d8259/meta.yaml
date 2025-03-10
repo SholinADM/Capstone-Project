@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/b21d464596654f9081481d575c5d8259/artifacts
+deleted_time: 1741589644206
 end_time: 1741581282003
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b21d464596654f9081481d575c5d8259
 run_name: casual-bee-269
 run_uuid: b21d464596654f9081481d575c5d8259

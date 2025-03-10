@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/62b386896f4b474490a0d0feb5b7a3c5/artifacts
+deleted_time: 1741589644175
 end_time: 1741582558016
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 62b386896f4b474490a0d0feb5b7a3c5
 run_name: gentle-cow-186
 run_uuid: 62b386896f4b474490a0d0feb5b7a3c5

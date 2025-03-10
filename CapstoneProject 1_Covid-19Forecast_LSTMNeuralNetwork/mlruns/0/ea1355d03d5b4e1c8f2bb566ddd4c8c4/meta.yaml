@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/ea1355d03d5b4e1c8f2bb566ddd4c8c4/artifacts
+deleted_time: 1741589644153
 end_time: 1741582909702
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ea1355d03d5b4e1c8f2bb566ddd4c8c4
 run_name: salty-bee-608
 run_uuid: ea1355d03d5b4e1c8f2bb566ddd4c8c4

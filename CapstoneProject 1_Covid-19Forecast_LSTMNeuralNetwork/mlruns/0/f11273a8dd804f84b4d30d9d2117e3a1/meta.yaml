@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/f11273a8dd804f84b4d30d9d2117e3a1/artifacts
+deleted_time: 1741589644196
 end_time: 1741582088945
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f11273a8dd804f84b4d30d9d2117e3a1
 run_name: gregarious-yak-922
 run_uuid: f11273a8dd804f84b4d30d9d2117e3a1

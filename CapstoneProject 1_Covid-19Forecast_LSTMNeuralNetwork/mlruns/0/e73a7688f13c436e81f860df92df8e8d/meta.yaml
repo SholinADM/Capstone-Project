@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/e73a7688f13c436e81f860df92df8e8d/artifacts
+deleted_time: 1741589644159
 end_time: 1741582814892
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e73a7688f13c436e81f860df92df8e8d
 run_name: worried-roo-243
 run_uuid: e73a7688f13c436e81f860df92df8e8d

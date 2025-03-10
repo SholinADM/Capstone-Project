@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/c81abb30d3f04a4eaf8fc03e096ba6ea/artifacts
+deleted_time: 1741589644197
 end_time: 1741582048741
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c81abb30d3f04a4eaf8fc03e096ba6ea
 run_name: abrasive-frog-842
 run_uuid: c81abb30d3f04a4eaf8fc03e096ba6ea

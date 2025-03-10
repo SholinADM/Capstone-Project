@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/ee5eff68895247ce94459d019e0fa6ef/artifacts
+deleted_time: 1741589644169
 end_time: 1741582655969
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ee5eff68895247ce94459d019e0fa6ef
 run_name: clumsy-snipe-358
 run_uuid: ee5eff68895247ce94459d019e0fa6ef

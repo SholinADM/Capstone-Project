@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/eb626468c7ef4c2b91e9175f60fc10fc/artifacts
+deleted_time: 1741589644127
+end_time: 1741584721154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eb626468c7ef4c2b91e9175f60fc10fc
+run_name: smiling-calf-932
+run_uuid: eb626468c7ef4c2b91e9175f60fc10fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741584708557
+status: 3
+tags: []
+user_id: suhaimi

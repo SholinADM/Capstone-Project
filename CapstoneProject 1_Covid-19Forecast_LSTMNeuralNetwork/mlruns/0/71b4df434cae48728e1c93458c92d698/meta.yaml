@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/71b4df434cae48728e1c93458c92d698/artifacts
+deleted_time: 1741589644159
 end_time: 1741582735723
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 71b4df434cae48728e1c93458c92d698
 run_name: calm-mole-477
 run_uuid: 71b4df434cae48728e1c93458c92d698

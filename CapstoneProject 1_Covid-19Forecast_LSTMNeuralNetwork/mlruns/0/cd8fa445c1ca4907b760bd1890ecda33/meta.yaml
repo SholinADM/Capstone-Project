@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/cd8fa445c1ca4907b760bd1890ecda33/artifacts
+deleted_time: 1741589644175
 end_time: 1741582433374
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cd8fa445c1ca4907b760bd1890ecda33
 run_name: thoughtful-goose-664
 run_uuid: cd8fa445c1ca4907b760bd1890ecda33

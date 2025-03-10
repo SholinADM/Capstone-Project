@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/c09c24df958b432089202e712735dc31/artifacts
+deleted_time: 1741589644117
+end_time: 1741589523966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c09c24df958b432089202e712735dc31
+run_name: useful-ape-77
+run_uuid: c09c24df958b432089202e712735dc31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589510728
+status: 3
+tags: []
+user_id: suhaimi

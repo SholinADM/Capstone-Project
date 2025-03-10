@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/a0c7e907164249a2a6920de9312c7266/artifacts
+deleted_time: 1741589644136
 end_time: 1741584597925
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a0c7e907164249a2a6920de9312c7266
 run_name: worried-steed-548
 run_uuid: a0c7e907164249a2a6920de9312c7266

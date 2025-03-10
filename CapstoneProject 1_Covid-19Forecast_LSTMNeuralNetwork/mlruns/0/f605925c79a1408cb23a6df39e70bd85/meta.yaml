@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/f605925c79a1408cb23a6df39e70bd85/artifacts
+deleted_time: 1741589644117
+end_time: 1741589555360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f605925c79a1408cb23a6df39e70bd85
+run_name: charming-ox-673
+run_uuid: f605925c79a1408cb23a6df39e70bd85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589543288
+status: 3
+tags: []
+user_id: suhaimi

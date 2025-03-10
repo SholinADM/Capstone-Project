@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/e2ee514525f847f5a8545c39d441496d/artifacts
+deleted_time: 1741589644144
 end_time: 1741584503345
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e2ee514525f847f5a8545c39d441496d
 run_name: handsome-robin-116
 run_uuid: e2ee514525f847f5a8545c39d441496d

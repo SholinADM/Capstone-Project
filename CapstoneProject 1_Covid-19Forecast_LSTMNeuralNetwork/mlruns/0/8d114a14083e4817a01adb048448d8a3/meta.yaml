@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/8d114a14083e4817a01adb048448d8a3/artifacts
+deleted_time: 1741589644134
 end_time: 1741584671797
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8d114a14083e4817a01adb048448d8a3
 run_name: smiling-owl-406
 run_uuid: 8d114a14083e4817a01adb048448d8a3

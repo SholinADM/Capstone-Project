@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/2f47d2ed03bb41f7b243579c572e07aa/artifacts
+deleted_time: 1741589644119
+end_time: 1741589493683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2f47d2ed03bb41f7b243579c572e07aa
+run_name: wise-newt-810
+run_uuid: 2f47d2ed03bb41f7b243579c572e07aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589480355
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/82514a50ce0f4e5a82c1d40897f9231d/artifacts
+deleted_time: 1741589644117
+end_time: 1741589613672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 82514a50ce0f4e5a82c1d40897f9231d
+run_name: nimble-toad-695
+run_uuid: 82514a50ce0f4e5a82c1d40897f9231d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589569024
+status: 3
+tags: []
+user_id: suhaimi

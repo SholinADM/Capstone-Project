@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/e9abefafe1af43d982f80d1a05ec6944/artifacts
+deleted_time: 1741589644136
 end_time: 1741584525112
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e9abefafe1af43d982f80d1a05ec6944
 run_name: invincible-flea-500
 run_uuid: e9abefafe1af43d982f80d1a05ec6944

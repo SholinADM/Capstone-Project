@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/9da39aa150044fada4fcf7597702fdaa/artifacts
+deleted_time: 1741589644204
 end_time: 1741581582142
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9da39aa150044fada4fcf7597702fdaa
 run_name: sedate-perch-666
 run_uuid: 9da39aa150044fada4fcf7597702fdaa

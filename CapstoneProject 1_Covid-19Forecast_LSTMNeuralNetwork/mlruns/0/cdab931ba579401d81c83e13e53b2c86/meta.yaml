@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/cdab931ba579401d81c83e13e53b2c86/artifacts
+deleted_time: 1741589644215
 end_time: 1741580211229
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cdab931ba579401d81c83e13e53b2c86
 run_name: resilient-robin-670
 run_uuid: cdab931ba579401d81c83e13e53b2c86

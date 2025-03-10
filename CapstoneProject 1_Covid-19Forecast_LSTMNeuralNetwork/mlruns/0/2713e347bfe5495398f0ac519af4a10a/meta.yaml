@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/2713e347bfe5495398f0ac519af4a10a/artifacts
+deleted_time: 1741589644185
 end_time: 1741582378162
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2713e347bfe5495398f0ac519af4a10a
 run_name: fortunate-sponge-976
 run_uuid: 2713e347bfe5495398f0ac519af4a10a

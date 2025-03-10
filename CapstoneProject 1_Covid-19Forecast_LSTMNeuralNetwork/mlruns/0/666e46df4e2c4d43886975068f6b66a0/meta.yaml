@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/666e46df4e2c4d43886975068f6b66a0/artifacts
+deleted_time: 1741589644126
+end_time: 1741587794304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 666e46df4e2c4d43886975068f6b66a0
+run_name: clean-bird-416
+run_uuid: 666e46df4e2c4d43886975068f6b66a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741587781464
+status: 3
+tags: []
+user_id: suhaimi
