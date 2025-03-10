@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/Capstone%20Project/CapstoneProject%201_Covid-19Forecast_LSTMNeuralNetwork/mlruns/0/926b61e081db4794b52f54568b2ba97d/artifacts
+end_time: 1741594473718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 926b61e081db4794b52f54568b2ba97d
+run_name: unequaled-moose-396
+run_uuid: 926b61e081db4794b52f54568b2ba97d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741594453917
+status: 3
+tags: []
+user_id: suhaimi
