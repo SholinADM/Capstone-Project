@@ -52,7 +52,7 @@ test_d = pd.DataFrame(SimpleImputer(strategy='mean').fit_transform(test_d), colu
 Ensure you have the following dependencies installed:
 
 ```bash
-pip install tensorflow pandas scikit-learn matplotlib seaborn mlflow
+pip install tensorflow pandas numpy scikit-learn matplotlib mlflow
 ```
 
 ## Usage
@@ -63,14 +63,15 @@ You can integrate this model into your project as follows:
 model.compile(optimizer='adam', loss='mse')
 
 # Train the model
-# model.fit(X_train, y_train, epochs=50, batch_size=32)
+model.fit(X_train, y_train, epochs=50, batch_size=32)
 ```
 
-## Applications
-This model can be used for various sequential data tasks, including:
-- Time series forecasting
-- Natural Language Processing (NLP)
-- Anomaly detection
+## Performance 
+Below is the model's single-step prediction using 30 days data.
+![graph](CapstoneProject 1_Covid-19Forecast_LSTMNeuralNetwork\screenshot\graph.png)
+![performance_train](CapstoneProject 1_Covid-19Forecast_LSTMNeuralNetwork\screenshot\Performance 1.png)
+![performance_val](CapstoneProject 1_Covid-19Forecast_LSTMNeuralNetwork\screenshot\Performance 2.png)
+![model](CapstoneProject 1_Covid-19Forecast_LSTMNeuralNetwork\screenshot\graph.png)
 
 ## License
 This project is open-source and available under the MIT License.
