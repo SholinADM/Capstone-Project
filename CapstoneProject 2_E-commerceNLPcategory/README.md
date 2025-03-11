@@ -33,7 +33,7 @@ The model consists of:
 - **Bidirectional LSTM Layers**
 - **Dropout Layer (0.5)**
 - **Dense Output Layer** with Softmax Activation
-[graph_loss](screenshot/model.png)
+![graph_loss](screenshot/model.png)
 
 ## 📊 Evaluation Metrics
 The model is evaluated using:
@@ -44,8 +44,8 @@ The model is evaluated using:
 ## 🚀 Results
 The trained model achieves high accuracy in classifying products into the respective categories. The loss and accuracy curves are plotted to analyze model performance.
 
-[graph_loss](screenshot/loss_graph.png)
-[graph_accuracy](screenshot/accuracy_graph.png)
+![graph_loss](screenshot/loss_graph.png)
+![graph_accuracy](screenshot/accuracy_graph.png)
 
 F1 score per class: [0.96885617 0.97413793 0.95834638 0.9420155 ]
 Micro-average F1 score: 0.9603263477843546
