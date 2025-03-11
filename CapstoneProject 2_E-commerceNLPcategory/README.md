@@ -26,6 +26,8 @@ Ensure the following modules are installed before running the project:
 - `matplotlib`
 - `pickle`
 
+Alternatively, you can use the requirements.txt though it will includes some unnecessary modules
+
 ## 🏗 Model Architecture
 The model consists of:
 - **Text Vectorization** (Tokenization)
@@ -47,10 +49,10 @@ The trained model achieves high accuracy in classifying products into the respec
 ![graph_loss](screenshot/loss_graph.png)
 ![graph_accuracy](screenshot/accuracy_graph.png)
 
-F1 score per class: [0.96885617 0.97413793 0.95834638 0.9420155 ]
-Micro-average F1 score: 0.9603263477843546
-Macro-average F1 score: 0.9608389974407663
-Weighted-average F1 score: 0.9602275514115507
+-F1 score per class: [0.96885617 0.97413793 0.95834638 0.9420155 ]
+-Micro-average F1 score: 0.9603263477843546
+-Macro-average F1 score: 0.9608389974407663
+-Weighted-average F1 score: 0.9602275514115507
 
 ## 📁 Model Saving
 The trained model and label encoder are saved as:
