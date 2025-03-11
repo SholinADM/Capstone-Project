@@ -77,6 +77,6 @@ Below is the model's single-step prediction using 30 days data.
 
 ![model](screenshot/ModelArchitecture.png)
 
-## License
-This project is open-source and available under the MIT License.
+## Author
+Developed by **SholinADM** as part of my Capstone project. 🚀
 
