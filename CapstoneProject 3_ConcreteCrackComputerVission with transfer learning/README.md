@@ -11,9 +11,9 @@ Concrete cracks can pose significant risks to the structural integrity and safet
 
 This project utilizes deep learning to classify concrete surfaces with or without cracks using image classification techniques. By automating crack detection, this model can help prevent structural failures and save lives.
 
-## Getting Started
+## 📌 Getting Started
 
-### Prerequisites
+### 🔧 Prerequisites
 
 Ensure you have Python installed along with the following required modules:
 
@@ -32,11 +32,11 @@ You can install them using:
 pip install tensorflow keras numpy opencv-python scikit-learn matplotlib datetime streamlit
 ```
 
-### Dataset
+### 📂 Dataset
 
 The dataset should be located in the `dataset/Concrete Crack Images for Classification` directory. It consists of images of concrete with and without cracks. Heads up, the dataset can be relatively large.
 
-### Training the Model
+### 🔧 Training the Model
 
 Run the following command to train the model:
 
@@ -54,7 +54,7 @@ This will:
 
  Alternatively, use a Python IDE like VS Code or Spyder.
 
-### Running the Streamlit App
+### 🚀 Running the Streamlit App
 
 Once the model is trained, navigate to the app directory and launch the Streamlit app to classify new images:
 
@@ -68,7 +68,7 @@ streamlit run App.py
 
 This provides a simple UI for users to upload images and receive classification results.
 
-## Model Architecture
+##  🏗 Model Architecture
 
 - **Backbone Model**: MobileNetV2 (pretrained on ImageNet)
 - **Data Augmentation**: Random flip, rotation
@@ -77,7 +77,7 @@ This provides a simple UI for users to upload images and receive classification 
 
 ![model](screenshots/model.png)
 
-## Results
+## 🚀 Results
 
 During training, TensorBoard logs are generated in the `logs/` directory. The following graphs are plotted:
 
@@ -87,10 +87,10 @@ During training, TensorBoard logs are generated in the `logs/` directory. The fo
 ![model](screenshots/accuracy_graph.png)
 ![model](screenshots/loss_graph.png)
 
-## Contribution
+## 📊 Contribution
 
 Suggestions for improvements are always welcome! The dataset used in this project can be accessed at [Mendeley Data](https://data.mendeley.com/datasets/5y9wdsg2zt/2).
 
-## Author
+## 💡 Author
 Developed by **SholinADM** as part of my Capstone project. 🚀
 
