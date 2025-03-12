@@ -34,7 +34,7 @@ pip install tensorflow keras numpy opencv-python scikit-learn matplotlib datetim
 
 ### Dataset
 
-The dataset is located in the `dataset/Concrete Crack Images for Classification` directory. It consists of images of concrete with and without cracks.
+The dataset should be located in the `dataset/Concrete Crack Images for Classification` directory. It consists of images of concrete with and without cracks. Heads up, the dataset can be relatively large.
 
 ### Training the Model
 
