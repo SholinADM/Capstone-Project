@@ -11,7 +11,7 @@ This project focuses on semantic segmentation for images containing cell nuclei 
 - **Deep learning-based segmentation**: Uses a UNet architecture for semantic segmentation of cell nuclei.
 - **Speeding up drug discovery**: Enables faster drug testing by analyzing cell responses to treatments.
 - **Flexibility for various diseases**: Applicable to research in cancer, Alzheimer's, diabetes, and other diseases.
-
+![screenshots/prediction.png](screenshots/prediction.png)
 ### 🔧 Prerequisites
 
 Ensure you have Python installed along with the following required modules:
@@ -31,6 +31,7 @@ pip install tensorflow keras opencv-python matplotlib numpy ipython
 
 ## 📐 Model Architecture
 The model uses a **UNet architecture** with a **MobileNetV2** backbone. It performs semantic segmentation by predicting pixel-level classification for each image.
+![model](screenshots/model.png)
 
 ### 📂 Dataset
 
@@ -53,8 +54,8 @@ During training, TensorBoard logs are generated in the `logs/` directory. The fo
 - **Loss Graph**: Training vs. Validation Loss
 - **Accuracy Graph**: Training vs. Validation Accuracy
 
-![model](screenshots/accuracy_graph.png)
-![model](screenshots/loss_graph.png)
+![graph loss](screenshots/loss_graph.png)
+![graph accuracy](screenshots/accuracy_graph.png)
 
 ## 💡 Author
 Developed by **SholinADM** as part of my Capstone project.
