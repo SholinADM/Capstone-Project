@@ -2,11 +2,11 @@
 
 An AI-powered algorithm designed for the automated detection of cell nuclei in images. This tool aims to expedite research on a wide range of diseases such as cancer, heart disease, Alzheimer's, and chronic obstructive pulmonary disease. By streamlining the process of identifying cell nuclei, it enables researchers to analyze DNA and examine cellular responses to various treatments, helping accelerate the development of new cures.
 
-## Overview
+## 📌 Overview
 
 This project focuses on semantic segmentation for images containing cell nuclei using a deep learning model. The model utilizes a UNet architecture with a MobileNetV2 backbone to extract features and generate accurate segmentation masks.
 
-### Key Features
+### 🔑 Key Features
 - **AI-driven nuclei detection**: Automates the process of detecting nuclei in biomedical images.
 - **Deep learning-based segmentation**: Uses a UNet architecture for semantic segmentation of cell nuclei.
 - **Speeding up drug discovery**: Enables faster drug testing by analyzing cell responses to treatments.
@@ -29,7 +29,7 @@ You can install the required packages using pip:
 pip install tensorflow keras opencv-python matplotlib numpy ipython
 ```
 
-## Model Architecture
+## 📐 Model Architecture
 The model uses a **UNet architecture** with a **MobileNetV2** backbone. It performs semantic segmentation by predicting pixel-level classification for each image.
 
 ### 📂 Dataset
