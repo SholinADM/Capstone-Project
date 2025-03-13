@@ -31,6 +31,7 @@ pip install tensorflow keras opencv-python matplotlib numpy ipython
 
 ## 📐 Model Architecture
 The model uses a **UNet architecture** with a **MobileNetV2** backbone. It performs semantic segmentation by predicting pixel-level classification for each image.
+
 ![model](screenshots/model.png)
 
 ### 📂 Dataset
